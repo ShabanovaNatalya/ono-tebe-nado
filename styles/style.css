@@ -342,6 +342,11 @@
   justify-content: center;
   width: 149px;
   height: 64px;
+  list-style: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
 }
 
 .footer__menu-link_active {
@@ -355,13 +360,6 @@
   gap: 48px;
   width: 240px;
   height: 48px;
-}
-
-.footer__menu-list {
-  list-style: none;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
 }
 
 .footer__social-list {
