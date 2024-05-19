@@ -1,8 +1,6 @@
 .header {
   display: flex;
-  flex-direction: row;
   align-items: center;
-  justify-content: flex-start;
   align-content: center;
   margin: 92px 0px 96px 0px;
 }
@@ -236,7 +234,6 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: start;
   align-content: start;
   gap: 24px;
   max-height: 595px;
@@ -302,7 +299,6 @@
   padding: 0 50px 0 50px;
   margin-bottom: 88px;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-content: flex-start;
 }
@@ -324,8 +320,6 @@
 
 .footer__social-list {
   display: flex;
-  flex-direction: row;
-  align-items: start;
   gap: 48px;
   list-style: none;
 }
